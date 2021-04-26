@@ -16,5 +16,8 @@ QA engineer with more than 3 years of experience in IT, primarily in e-commerce 
 * Git: github, bitbucket, gitlab
 * CI tools: Jenkins, Teamcity, Drone CI
 
+## Education
+BSUIR, Faculty of Economics and Engineering
+
 ## English
 Upper-intermediate level
