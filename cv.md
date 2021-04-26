@@ -19,5 +19,10 @@ QA engineer with more than 3 years of experience in IT, primarily in e-commerce 
 ## Education
 BSUIR, Faculty of Economics and Engineering
 
+## Working experience
+2017-2019 EPAM Systems - QA Engineer
+2020 - now Klika Tech - QA Engineer
+
+
 ## English
 Upper-intermediate level
